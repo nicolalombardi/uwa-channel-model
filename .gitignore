@@ -5,3 +5,8 @@
 *.ray
 *.asv
 *.env
+
+
+# My output files
+my-code/output
+my-code/test.m
